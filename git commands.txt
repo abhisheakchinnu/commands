@@ -1,0 +1,17 @@
+echo "# bike-trip" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abhisheakchinnu/bike-trip.git
+git push -u origin main
+
+pwd-it shows where were in location
+mkdir-making directory
+cat> file name press enter then ctrl+c press enter file will create
+ls -l :- it shows the all what we created the fies and directories(long last)
+rm :remove files 
+rm -rf :- remove force
+cd: change directory(we can open the directory or file by using CD file/dir name press enter)
+__________________________________________________________________________________________________________---
+use commands only in the small letters
